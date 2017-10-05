@@ -1,0 +1,36 @@
+
+**) RIIA, whatever
+    auto close the file and com port!
+    we can't leave without closing ...
+
+01) C++ STD11!
+02) MULTI BYTE command line project.
+03) WIN32 vs _WIN32 project defines.
+04) USE_SERIAL_ENUM project define.
+05) USE_MOCK
+06) USE_DEBUG
+07) No stdafx.h / cpp dependencies.
+08) all functions at xCommons.cpp / h.
+
+10) extra cr lf into the command response. 		DONE
+11) createFolder vs CreateDirectory vs vs2012.     	DONE
+12) default command line, no parameters at all. 	DONE
+13) the app is crashing when without paramters. 	DONE
+
+
+http://fort21.ru/download/NMEAdescription.pdf
+http://www.catb.org/gpsd/NMEA.html
+http://www.nmea.org/Assets/100108_nmea_0183_sentences_not_recommended_for_new_designs.pdf
+
+NMEA 0183 = Output protocol.
+   Sentence Structure
+   $WIMDA....... Meteorological Composite
+   https://github.com/rob42/freeboard-server/blob/master/NMEA.txt
+   
+   $WINDA
+   Meteorological Composite.
+      Barometric pressure,
+      air temperature,
+      relative humidity,
+      dew point,
+      wind direction,      wind speed         $WIMDA,30.2239,I,1.0235,B,13.8,C,,,45.9,,2.3,C,73.0,T,62.1,M,1.0,N,0.5,M*53   $WIMDA,30.2269,I,1.0236,B,13.8,C,,,45.9,,2.3,C,80.6,T,69.7,M,1.2,N,0.6,M*53   $WIMDA,30.2239,I,1.0235,B,13.8,C,,,45.9,,2.3,C,73.0,T,62.1,M,1.0,N,0.5,M*53   $WIMDA,30.2239,I,1.0235,B,13.8,C,,,45.9,,2.3,C,82.0,T,71.1,M,0.7,N,0.4,M*58   $WIMDA,30.2239,I,1.0235,B,13.8,C,,,46.0,,2.3,C,68.0,T,57.1,M,0.9,N,0.5,M*5DAcquiring high-resolution time stamps   https://msdn.microsoft.com/en-us/library/windows/desktop/dn553408(v=vs.85).aspx   __int64 Counter;    __int64 Frequency;    double ThisTimeStamp;    QueryPerformanceFrequency((LARGE_INTEGER *) &Frequency);    QueryPerformanceCounter((LARGE_INTEGER*)&Counter);    ThisTimeStamp = (double)(Counter)/(double)Frequency*1000;      use this   http://www.songho.ca/misc/timer/timer.html

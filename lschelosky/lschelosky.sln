@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WeeditImport", "WeeditImport\WeeditImport.vcproj", "{00971946-44FB-418C-98C1-D2F11D70D316}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WeatherImport", "WeatherImport\WeatherImport.vcproj", "{FC5DC7F7-3C7D-4651-93D8-F43F330FFC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00971946-44FB-418C-98C1-D2F11D70D316}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00971946-44FB-418C-98C1-D2F11D70D316}.Debug|Win32.Build.0 = Debug|Win32
+		{00971946-44FB-418C-98C1-D2F11D70D316}.Release|Win32.ActiveCfg = Release|Win32
+		{00971946-44FB-418C-98C1-D2F11D70D316}.Release|Win32.Build.0 = Release|Win32
+		{FC5DC7F7-3C7D-4651-93D8-F43F330FFC8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC5DC7F7-3C7D-4651-93D8-F43F330FFC8F}.Debug|Win32.Build.0 = Debug|Win32
+		{FC5DC7F7-3C7D-4651-93D8-F43F330FFC8F}.Release|Win32.ActiveCfg = Release|Win32
+		{FC5DC7F7-3C7D-4651-93D8-F43F330FFC8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

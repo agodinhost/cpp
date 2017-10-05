@@ -1,0 +1,14 @@
+
+01) C++ STD11!
+02) MULTI BYTE command line project.
+03) WIN32 vs _WIN32 project defines.
+04) USE_SERIAL_ENUM project define.
+05) USE_MOCK
+06) USE_DEBUG
+07) No stdafx.h / cpp dependencies.
+08) all functions at xCommons.cpp / h.
+
+10) extra cr lf into the command response. 		DONE
+11) createFolder vs CreateDirectory vs vs2012.     	DONE
+12) default command line, no parameters at all. 	DONE
+13) the app is crashing when without paramters. 	DONE

@@ -1,0 +1,1653 @@
+Import started.
+Opening port COM3 @ 4800 bps.
+Serial unavailable, please wait, purging serial buffer .........................................................................................................................................
+response []
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055830.40,A,2822.9903,S,15018.4333,E,1.0,196.3,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,212.1,T,201.7,M,1.0,N,0.5,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,203.4,0.0,E,10.4,E*72]
+parse NMEA, invalid line format!
+response [
+$WIMWV,341.4,R,1.7,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,191.6,T,181.2,M,0.9,N,0.5,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055831.40,A,2822.9906,S,15018.4333,E,0.6,194.5,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,198.7,T,188.3,M,1.0,N,0.5,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,203.0,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,342.2,R,1.5,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,200.7,T,190.3,M,0.7,N,0.4,M*57]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055832.40,A,2822.9908,S,15018.4334,E,0.8,192.5,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.1,,17.6,C,221.2,T,210.8,M,1.3,N,0.7,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,201.5,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,356.4,R,2.2,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,221.8,T,211.4,M,1.1,N,0.6,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055833.40,A,2822.9911,S,15018.4332,E,1.0,192.9,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.1,,17.6,C,218.6,T,208.2,M,0.4,N,0.2,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,199.4,0.0,E,10.4,E*72]
+parse NMEA, invalid line format!
+response [
+$WIMWV,1.6,R,2.1,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,225.9,T,215.5,M,1.2,N,0.6,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055834.40,A,2822.9915,S,15018.4332,E,1.1,190.7,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,224.5,T,214.1,M,1.5,N,0.8,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,196.5,0.0,E,10.4,E*7C]
+parse NMEA, invalid line format!
+response [
+$WIMWV,356.6,R,2.8,N,A*2F]
+parse NMEA, invalid line format!
+response [
+$WIMWD,214.5,T,204.1,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055835.40,A,2822.9920,S,15018.4332,E,1.5,187.7,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.2,,17.7,C,238.4,T,228.0,M,1.3,N,0.7,M*62]
+parse NMEA, invalid line format!
+response [
+$HCHDG,193.4,0.0,E,10.4,E*78]
+parse NMEA, invalid line format!
+response [
+$WIMWV,8.0,R,2.4,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,246.4,T,236.0,M,1.1,N,0.6,M*5F]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055836.40,A,2822.9927,S,15018.4330,E,1.8,188.1,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.2,,17.7,C,229.4,T,219.0,M,1.7,N,0.9,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,191.7,0.0,E,10.4,E*79]
+parse NMEA, invalid line format!
+response [
+$WIMWV,8.5,R,3.0,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,238.5,T,228.1,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055837.40,A,2822.9933,S,15018.4328,E,2.0,188.4,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.2,,17.7,C,223.6,T,213.2,M,2.2,N,1.1,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,191.5,0.0,E,10.4,E*7B]
+parse NMEA, invalid line format!
+response [
+$WIMWV,5.0,R,3.8,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,228.9,T,218.5,M,1.8,N,0.9,M*55]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055838.40,A,2822.9940,S,15018.4325,E,2.2,190.8,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.3,,17.7,C,322.9,T,312.5,M,0.7,N,0.4,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,193.6,0.0,E,10.4,E*7A]
+parse NMEA, invalid line format!
+response [
+$WIMWV,11.1,R,1.6,N,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMWD,330.5,T,320.1,M,1.0,N,0.5,M*5B]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055839.40,A,2822.9946,S,15018.4322,E,2.3,194.8,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.3,,17.7,C,263.3,T,252.9,M,1.0,N,0.5,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,197.8,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,7.0,R,2.7,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,266.5,T,256.1,M,1.0,N,0.5,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055840.40,A,2822.9953,S,15018.4319,E,2.3,195.6,020317,10.4,E,A*16]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.3,,17.7,C,310.3,T,299.9,M,0.9,N,0.5,M*69]
+parse NMEA, invalid line format!
+response [
+$HCHDG,200.1,0.0,E,10.4,E*74]
+parse NMEA, invalid line format!
+response [
+$WIMWV,5.4,R,3.2,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,255.1,T,244.7,M,1.3,N,0.7,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055841.40,A,2822.9957,S,15018.4317,E,2.1,196.1,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.4,,17.7,C,244.9,T,234.5,M,1.4,N,0.7,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,198.7,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,3.5,R,3.6,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,229.1,T,218.7,M,1.7,N,0.9,M*51]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055842.40,A,2822.9963,S,15018.4316,E,2.1,192.9,020317,10.4,E,A*12]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.4,,17.7,C,220.1,T,209.7,M,1.5,N,0.8,M*69]
+parse NMEA, invalid line format!
+response [
+$HCHDG,197.3,0.0,E,10.4,E*7B]
+parse NMEA, invalid line format!
+response [
+$WIMWV,354.5,R,3.2,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,223.6,T,213.2,M,1.2,N,0.6,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055843.40,A,2822.9967,S,15018.4315,E,1.7,193.1,020317,10.4,E,A*18]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.4,,17.7,C,218.9,T,208.5,M,0.3,N,0.2,M*69]
+parse NMEA, invalid line format!
+response [
+$HCHDG,197.0,0.0,E,10.4,E*78]
+parse NMEA, invalid line format!
+response [
+$WIMWV,356.3,R,2.5,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,215.6,T,205.2,M,0.9,N,0.5,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055844.40,A,2822.9969,S,15018.4314,E,1.5,195.0,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,77.4,,17.7,C,220.7,T,210.3,M,2.1,N,1.1,M*62]
+parse NMEA, invalid line format!
+response [
+$HCHDG,196.9,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,3.6,R,3.4,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,217.1,T,206.7,M,1.9,N,1.0,M*55]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055845.40,A,2822.9974,S,15018.4314,E,1.6,193.2,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.5,,17.7,C,217.2,T,206.8,M,1.0,N,0.5,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,196.4,0.0,E,10.4,E*7D]
+parse NMEA, invalid line format!
+response [
+$WIMWV,356.0,R,2.8,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,227.7,T,217.3,M,1.2,N,0.6,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055846.40,A,2822.9979,S,15018.4312,E,1.6,194.8,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.5,,17.7,C,228.0,T,217.6,M,1.0,N,0.5,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,198.4,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,1.6,R,3.1,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,224.8,T,214.4,M,1.5,N,0.8,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,27,26,,,,1.8,1.0,1.5*3A]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055847.40,A,2822.9984,S,15018.4311,E,1.5,199.0,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.5,,17.7,C,217.2,T,206.8,M,1.7,N,0.9,M*61]
+parse NMEA, invalid line format!
+response [
+$HCHDG,203.0,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,354.5,R,2.9,N,A*2F]
+parse NMEA, invalid line format!
+response [
+$WIMWD,212.4,T,202.0,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055848.40,A,2822.9990,S,15018.4310,E,1.3,204.5,020317,10.4,E,A*13]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.5,,17.7,C,206.4,T,196.0,M,1.6,N,0.8,M*65]
+parse NMEA, invalid line format!
+response [
+$HCHDG,209.0,0.0,E,10.4,E*7C]
+parse NMEA, invalid line format!
+response [
+$WIMWV,349.9,R,2.8,N,A*2E]
+parse NMEA, invalid line format!
+response [
+$WIMWD,216.4,T,206.0,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055849.40,A,2822.9993,S,15018.4307,E,1.3,211.3,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,22.0,C,,,77.6,,17.8,C,234.5,T,224.1,M,2.0,N,1.0,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,214.7,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,356.0,R,3.4,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,228.0,T,217.6,M,2.0,N,1.0,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055850.40,A,2822.9997,S,15018.4304,E,1.3,215.1,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,22.0,C,,,77.6,,17.8,C,225.5,T,215.1,M,0.8,N,0.4,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,220.0,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,351.0,R,2.0,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,228.2,T,217.8,M,0.6,N,0.3,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055851.40,A,2823.0001,S,15018.4302,E,1.3,219.6,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,22.0,C,,,77.6,,17.8,C,166.5,T,156.1,M,0.8,N,0.4,M*69]
+parse NMEA, invalid line format!
+response [
+$HCHDG,224.5,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,322.1,R,1.8,N,A*28]
+parse NMEA, invalid line format!
+response [
+$WIMWD,150.9,T,140.5,M,0.7,N,0.4,M*54]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055852.40,A,2823.0004,S,15018.4298,E,1.3,226.5,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,22.0,C,,,77.7,,17.9,C,147.9,T,137.5,M,1.4,N,0.7,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,229.1,0.0,E,10.4,E*7F]
+parse NMEA, invalid line format!
+response [
+$WIMWV,315.8,R,2.2,N,A*2C]
+parse NMEA, invalid line format!
+response [
+$WIMWD,164.4,T,154.0,M,1.2,N,0.6,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055853.40,A,2823.0009,S,15018.4294,E,1.3,229.4,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,22.0,C,,,77.8,,17.9,C,206.5,T,196.1,M,1.9,N,1.0,M*68]
+parse NMEA, invalid line format!
+response [
+$HCHDG,235.3,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,319.5,R,2.5,N,A*2A]
+parse NMEA, invalid line format!
+response [
+$WIMWD,177.5,T,167.1,M,1.3,N,0.7,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055854.40,A,2823.0011,S,15018.4291,E,1.3,235.5,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,22.0,C,,,77.9,,17.9,C,127.1,T,116.7,M,1.7,N,0.9,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,240.5,0.0,E,10.4,E*74]
+parse NMEA, invalid line format!
+response [
+$WIMWV,300.7,R,2.1,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,169.3,T,158.9,M,1.6,N,0.8,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055855.40,A,2823.0015,S,15018.4287,E,1.3,239.3,020317,10.4,E,A*14]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,22.0,C,,,78.0,,17.9,C,164.8,T,154.4,M,1.7,N,0.9,M*68]
+parse NMEA, invalid line format!
+response [
+$HCHDG,244.8,0.0,E,10.4,E*7D]
+parse NMEA, invalid line format!
+response [
+$WIMWV,304.0,R,2.6,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,172.6,T,162.2,M,1.9,N,1.0,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055856.40,A,2823.0016,S,15018.4284,E,1.3,243.4,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,22.0,C,,,78.0,,17.9,C,153.2,T,142.8,M,1.8,N,0.9,M*60]
+parse NMEA, invalid line format!
+response [
+$HCHDG,247.9,0.0,E,10.4,E*7F]
+parse NMEA, invalid line format!
+response [
+$WIMWV,303.7,R,2.7,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,179.0,T,168.6,M,2.0,N,1.0,M*5F]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055857.40,A,2823.0016,S,15018.4280,E,1.5,246.1,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,22.0,C,,,78.1,,18.0,C,221.9,T,211.5,M,2.4,N,1.2,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,249.8,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,341.9,R,3.7,N,A*28]
+parse NMEA, invalid line format!
+response [
+$WIMWD,240.0,T,229.6,M,2.1,N,1.1,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055858.40,A,2823.0018,S,15018.4275,E,1.8,246.4,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,22.0,C,,,78.2,,18.0,C,205.5,T,195.1,M,2.1,N,1.1,M*6E]
+parse NMEA, invalid line format!
+response [
+$HCHDG,251.4,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,324.9,R,3.7,N,A*2B]
+parse NMEA, invalid line format!
+response [
+$WIMWD,208.6,T,198.2,M,2.0,N,1.0,M*57]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055859.40,A,2823.0019,S,15018.4269,E,2.1,248.2,020317,10.4,E,A*12]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,22.0,C,,,78.3,,18.0,C,219.5,T,209.1,M,2.2,N,1.1,M*68]
+parse NMEA, invalid line format!
+response [
+$HCHDG,252.7,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,333.7,R,4.7,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,227.2,T,216.8,M,2.4,N,1.2,M*57]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055900.40,A,2823.0021,S,15018.4262,E,2.5,249.1,020317,10.4,E,A*19]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,22.0,C,,,78.3,,18.0,C,191.0,T,180.6,M,1.8,N,0.9,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,254.1,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,310.6,R,4.1,N,A*22]
+parse NMEA, invalid line format!
+response [
+$WIMWD,177.8,T,167.4,M,2.4,N,1.2,M*52]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055901.40,A,2823.0023,S,15018.4254,E,2.8,248.5,020317,10.4,E,A*17]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,22.0,C,,,78.3,,18.0,C,154.5,T,144.1,M,2.8,N,1.4,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,254.8,0.0,E,10.4,E*7C]
+parse NMEA, invalid line format!
+response [
+$WIMWV,293.0,R,3.7,N,A*2F]
+parse NMEA, invalid line format!
+response [
+$WIMWD,145.3,T,134.9,M,2.9,N,1.5,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055902.40,A,2823.0025,S,15018.4244,E,3.2,248.3,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,78.3,,17.9,C,148.6,T,138.2,M,3.7,N,1.9,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,254.1,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,306.7,R,4.6,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,148.8,T,138.4,M,3.7,N,1.9,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055903.40,A,2823.0029,S,15018.4234,E,3.3,246.3,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,78.3,,17.9,C,136.5,T,126.1,M,3.5,N,1.8,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,253.8,0.0,E,10.4,E*7B]
+parse NMEA, invalid line format!
+response [
+$WIMWV,306.5,R,4.3,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,137.1,T,126.7,M,3.5,N,1.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055904.40,A,2823.0035,S,15018.4222,E,3.8,244.6,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,78.3,,17.9,C,171.6,T,161.2,M,1.7,N,0.9,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,252.5,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,345.6,R,4.9,N,A*2A]
+parse NMEA, invalid line format!
+response [
+$WIMWD,196.7,T,186.3,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055905.40,A,2823.0040,S,15018.4211,E,3.9,243.4,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,78.2,,17.9,C,224.3,T,213.9,M,2.5,N,1.3,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.6,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,348.8,R,6.3,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,211.8,T,201.4,M,2.4,N,1.2,M*52]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055906.40,A,2823.0044,S,15018.4199,E,4.0,242.3,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,78.2,,17.9,C,165.6,T,155.2,M,3.0,N,1.5,M*61]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.1,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,311.5,R,4.6,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,136.6,T,126.2,M,4.0,N,2.1,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055907.40,A,2823.0050,S,15018.4188,E,4.0,241.4,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,78.1,,17.9,C,111.1,T,100.7,M,4.4,N,2.3,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,249.7,0.0,E,10.4,E*7F]
+parse NMEA, invalid line format!
+response [
+$WIMWV,298.3,R,3.8,N,A*28]
+parse NMEA, invalid line format!
+response [
+$WIMWD,116.6,T,106.2,M,3.9,N,2.0,M*57]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055908.40,A,2823.0055,S,15018.4177,E,4.0,240.3,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,78.0,,17.8,C,170.1,T,159.7,M,1.4,N,0.7,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,246.8,0.0,E,10.4,E*7F]
+parse NMEA, invalid line format!
+response [
+$WIMWV,346.1,R,5.3,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,192.1,T,181.7,M,1.5,N,0.8,M*52]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055909.40,A,2823.0062,S,15018.4167,E,4.0,237.6,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.9,,17.8,C,147.2,T,136.8,M,1.5,N,0.8,M*60]
+parse NMEA, invalid line format!
+response [
+$HCHDG,246.7,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,339.1,R,3.9,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,140.6,T,130.2,M,1.5,N,0.8,M*55]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055910.40,A,2823.0067,S,15018.4156,E,4.0,240.1,020317,10.4,E,A*14]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.8,,17.8,C,169.9,T,159.5,M,2.8,N,1.4,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,246.2,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,321.6,R,5.5,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,145.8,T,135.4,M,3.3,N,1.7,M*57]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055911.40,A,2823.0073,S,15018.4144,E,3.9,237.4,020317,10.4,E,A*18]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.6,,17.8,C,122.4,T,112.0,M,2.5,N,1.3,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,248.9,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,323.9,R,4.6,N,A*2A]
+parse NMEA, invalid line format!
+response [
+$WIMWD,147.1,T,136.7,M,2.7,N,1.4,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055912.40,A,2823.0079,S,15018.4133,E,3.8,239.3,020317,10.4,E,A*19]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.6,,17.8,C,135.8,T,125.4,M,2.4,N,1.2,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.3,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,323.9,R,3.7,N,A*2C]
+parse NMEA, invalid line format!
+response [
+$WIMWD,130.5,T,120.1,M,2.2,N,1.1,M*5F]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055913.40,A,2823.0082,S,15018.4122,E,3.7,241.7,020317,10.4,E,A*18]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.5,,17.7,C,132.4,T,122.0,M,2.0,N,1.0,M*6F]
+parse NMEA, invalid line format!
+response [
+$HCHDG,249.4,0.0,E,10.4,E*7C]
+parse NMEA, invalid line format!
+response [
+$WIMWV,332.3,R,3.5,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,124.4,T,114.0,M,1.5,N,0.8,M*51]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055914.40,A,2823.0086,S,15018.4112,E,3.7,241.7,020317,10.4,E,A*18]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.4,,17.7,C,138.0,T,127.6,M,1.0,N,0.5,M*6E]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.3,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,341.8,R,4.0,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,154.5,T,144.1,M,1.3,N,0.7,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055915.40,A,2823.0091,S,15018.4103,E,3.8,242.2,020317,10.4,E,A*16]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.4,,17.7,C,122.2,T,111.8,M,2.5,N,1.3,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.3,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,323.0,R,3.9,N,A*2B]
+parse NMEA, invalid line format!
+response [
+$WIMWD,144.1,T,133.7,M,2.3,N,1.2,M*5E]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055916.40,A,2823.0096,S,15018.4092,E,3.8,242.0,020317,10.4,E,A*19]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.3,,17.7,C,167.1,T,156.7,M,1.5,N,0.8,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,251.3,0.0,E,10.4,E*72]
+parse NMEA, invalid line format!
+response [
+$WIMWV,335.7,R,4.9,N,A*2C]
+parse NMEA, invalid line format!
+response [
+$WIMWD,162.0,T,151.6,M,1.9,N,1.0,M*55]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055917.40,A,2823.0103,S,15018.4081,E,3.9,242.1,020317,10.4,E,A*17]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.3,,17.7,C,130.1,T,119.7,M,2.4,N,1.2,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,250.9,0.0,E,10.4,E*79]
+parse NMEA, invalid line format!
+response [
+$WIMWV,329.0,R,4.6,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,153.3,T,142.9,M,2.4,N,1.2,M*55]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055918.40,A,2823.0109,S,15018.4070,E,4.0,242.6,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,77.3,,17.7,C,148.6,T,138.2,M,2.5,N,1.3,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,251.6,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,332.9,R,4.1,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,140.6,T,130.2,M,1.7,N,0.9,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055919.40,A,2823.0114,S,15018.4058,E,4.0,244.1,020317,10.4,E,A*13]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.2,,17.7,C,154.0,T,143.6,M,0.9,N,0.5,M*62]
+parse NMEA, invalid line format!
+response [
+$HCHDG,252.5,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,349.7,R,3.9,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,123.4,T,113.0,M,0.6,N,0.3,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055920.40,A,2823.0119,S,15018.4047,E,4.0,245.6,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.2,,17.7,C,205.7,T,195.3,M,1.1,N,0.6,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,255.0,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,355.3,R,5.5,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,233.7,T,223.3,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055921.40,A,2823.0123,S,15018.4036,E,4.0,246.8,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.1,,17.6,C,203.9,T,193.5,M,1.8,N,0.9,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,255.6,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,345.0,R,5.2,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,193.8,T,183.4,M,1.7,N,0.9,M*58]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055922.40,A,2823.0127,S,15018.4026,E,3.9,246.6,020317,10.4,E,A*19]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,132.5,T,122.1,M,3.1,N,1.6,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,255.4,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,312.0,R,3.7,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,132.9,T,122.5,M,3.0,N,1.5,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055923.40,A,2823.0132,S,15018.4015,E,3.9,246.1,020317,10.4,E,A*1B]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.1,,17.6,C,150.7,T,140.3,M,2.9,N,1.5,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,255.8,0.0,E,10.4,E*7D]
+parse NMEA, invalid line format!
+response [
+$WIMWV,316.1,R,4.8,N,A*2A]
+parse NMEA, invalid line format!
+response [
+$WIMWD,150.2,T,139.8,M,3.5,N,1.8,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055924.40,A,2823.0136,S,15018.4004,E,3.8,246.2,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,134.8,T,124.4,M,3.9,N,2.0,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,255.5,0.0,E,10.4,E*70]
+parse NMEA, invalid line format!
+response [
+$WIMWV,294.9,R,3.9,N,A*2F]
+parse NMEA, invalid line format!
+response [
+$WIMWD,122.5,T,112.1,M,4.0,N,2.1,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055925.40,A,2823.0141,S,15018.3994,E,3.7,247.3,020317,10.4,E,A*13]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.1,,17.6,C,126.3,T,115.9,M,3.7,N,1.9,M*60]
+parse NMEA, invalid line format!
+response [
+$HCHDG,256.8,0.0,E,10.4,E*7E]
+parse NMEA, invalid line format!
+response [
+$WIMWV,307.4,R,4.2,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,140.6,T,130.2,M,3.1,N,1.6,M*5C]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055926.40,A,2823.0144,S,15018.3983,E,3.5,250.4,020317,10.4,E,A*10]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.1,,17.6,C,204.4,T,194.0,M,2.1,N,1.1,M*61]
+parse NMEA, invalid line format!
+response [
+$HCHDG,262.8,0.0,E,10.4,E*79]
+parse NMEA, invalid line format!
+response [
+$WIMWV,344.2,R,5.6,N,A*21]
+parse NMEA, invalid line format!
+response [
+$WIMWD,214.3,T,203.9,M,2.3,N,1.2,M*54]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055927.40,A,2823.0145,S,15018.3973,E,3.3,258.3,020317,10.4,E,A*16]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.0,,17.6,C,171.5,T,161.1,M,2.3,N,1.2,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,273.7,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,326.7,R,4.1,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,177.6,T,167.2,M,2.1,N,1.1,M*5C]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055928.40,A,2823.0143,S,15018.3964,E,3.1,271.6,020317,10.4,E,A*15]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8755,I,1.0117,B,21.9,C,,,77.0,,17.6,C,151.8,T,141.4,M,2.1,N,1.1,M*6F]
+parse NMEA, invalid line format!
+response [
+$HCHDG,290.0,0.0,E,10.4,E*7C]
+parse NMEA, invalid line format!
+response [
+$WIMWV,277.2,R,2.8,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,154.6,T,144.2,M,2.7,N,1.4,M*5F]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055929.40,A,2823.0139,S,15018.3955,E,2.8,284.5,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.0,,17.6,C,163.8,T,153.4,M,3.1,N,1.6,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,306.7,0.0,E,10.4,E*75]
+parse NMEA, invalid line format!
+response [
+$WIMWV,258.8,R,2.5,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,162.8,T,152.4,M,3.1,N,1.6,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055930.40,A,2823.0135,S,15018.3950,E,2.3,301.5,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.0,,17.6,C,185.3,T,174.9,M,2.4,N,1.2,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,319.1,0.0,E,10.4,E*7D]
+parse NMEA, invalid line format!
+response [
+$WIMWV,263.1,R,2.4,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,184.8,T,174.4,M,2.8,N,1.4,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055931.40,A,2823.0132,S,15018.3947,E,1.8,311.2,020317,10.4,E,A*12]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8725,I,1.0116,B,21.9,C,,,77.0,,17.6,C,202.3,T,191.9,M,3.0,N,1.5,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,327.9,0.0,E,10.4,E*78]
+parse NMEA, invalid line format!
+response [
+$WIMWV,246.7,R,2.8,N,A*2E]
+parse NMEA, invalid line format!
+response [
+$WIMWD,194.7,T,184.3,M,3.3,N,1.7,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055932.40,A,2823.0129,S,15018.3944,E,1.5,323.8,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8696,I,1.0115,B,21.9,C,,,77.0,,17.6,C,216.1,T,205.7,M,2.8,N,1.4,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,335.1,0.0,E,10.4,E*73]
+parse NMEA, invalid line format!
+response [
+$WIMWV,246.2,R,2.9,N,A*2A]
+parse NMEA, invalid line format!
+response [
+$WIMWD,212.6,T,202.2,M,3.2,N,1.6,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055933.40,A,2823.0126,S,15018.3941,E,1.5,327.5,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,77.0,,17.6,C,217.3,T,206.9,M,2.5,N,1.3,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,338.9,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,245.6,R,3.3,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,216.4,T,206.0,M,3.6,N,1.9,M*52]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055934.40,A,2823.0124,S,15018.3940,E,1.3,330.2,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8637,I,1.0113,B,21.9,C,,,77.1,,17.6,C,215.7,T,205.3,M,2.2,N,1.1,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,341.7,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,256.9,R,2.2,N,A*2B]
+parse NMEA, invalid line format!
+response [
+$WIMWD,221.1,T,210.7,M,2.5,N,1.3,M*5B]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055935.40,A,2823.0123,S,15018.3938,E,1.3,331.9,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,21.9,C,,,77.1,,17.6,C,228.0,T,217.6,M,2.4,N,1.2,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,343.4,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,271.3,R,2.6,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,235.4,T,225.0,M,2.3,N,1.2,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055936.40,A,2823.0122,S,15018.3935,E,1.3,330.1,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,77.2,,17.7,C,245.7,T,235.3,M,2.8,N,1.4,M*6C]
+parse NMEA, invalid line format!
+response [
+$HCHDG,343.2,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,275.6,R,3.5,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,247.2,T,236.8,M,3.0,N,1.5,M*51]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055937.40,A,2823.0118,S,15018.3932,E,1.2,330.7,020317,10.4,E,A*12]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8578,I,1.0111,B,21.9,C,,,77.3,,17.7,C,235.4,T,225.0,M,2.9,N,1.5,M*62]
+parse NMEA, invalid line format!
+response [
+$HCHDG,343.2,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,255.1,R,2.1,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,217.2,T,206.8,M,2.0,N,1.0,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055938.40,A,2823.0118,S,15018.3929,E,0.8,332.8,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8578,I,1.0111,B,21.9,C,,,77.3,,17.7,C,193.9,T,183.5,M,0.7,N,0.4,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,344.0,0.0,E,10.4,E*74]
+parse NMEA, invalid line format!
+response [
+$WIMWV,271.3,R,0.4,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,202.9,T,192.5,M,0.6,N,0.3,M*59]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055939.40,A,2823.0117,S,15018.3928,E,0.4,335.9,020317,10.4,E,A*14]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,21.9,C,,,77.4,,17.7,C,232.7,T,222.3,M,1.7,N,0.9,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,344.5,0.0,E,10.4,E*71]
+parse NMEA, invalid line format!
+response [
+$WIMWV,255.4,R,2.0,N,A*27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,238.2,T,227.8,M,2.0,N,1.0,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055940.40,A,2823.0115,S,15018.3927,E,0.4,334.3,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8666,I,1.0114,B,21.9,C,,,77.4,,17.7,C,230.0,T,219.6,M,1.5,N,0.8,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,239.4,R,1.5,N,A*2B]
+parse NMEA, invalid line format!
+response [
+$WIMWD,219.5,T,209.1,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055941.40,A,2823.0115,S,15018.3926,E,0.5,335.5,020317,10.4,E,A*1A]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0112,B,22.0,C,,,77.5,,17.8,C,194.4,T,184.0,M,1.8,N,0.9,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,221.2,R,0.9,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,202.8,T,192.4,M,1.1,N,0.6,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055942.40,A,2823.0115,S,15018.3926,E,0.3,329.4,020317,10.4,E,A*13]
+parse NMEA, invalid line format!
+response [
+$WIM12,B,22.0,C,,,77.6,,17.8,C,188.9,T,178.5,M,0.5,N,0.3,M*65]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.4,0.5.3,R,0.6,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,221.9,T,211.5,M,0.7,N,0.4,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055943.40,A,2823.0116,S,15018.3926,E,0.2,326.1,02031712,B,22.0,C,,,77.6,,17.8,C,246.2,T,235.8,M,0.9,N,0.5,M*62]
+parse NMEA, invalid line format!
+response [
+7.6,R,0.8,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,260.8,T,250.4,M,0.7,N,0.4,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055944.40,A,2823.0118,S,15018.3926,E,0.1,324.2,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8607,I,1.0177.6,,17.8,C,244.7,T,234.3,M,0.9,N,0.5,27]
+parse NMEA, invalid line format!
+response [
+$WIMWD,256.5,T,246.1,M,1.4,N,0.7,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055945.40,A,2823.0119,S,15018.3926,E,0.0,315.9,020317,10.4,E,A*19]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8578,I,1.0111,B,22.0,C,,,77.7,,17.9,C,255.4,T,245.0,M,1.5,N,0.8,M*61]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.4,026]
+parse NMEA, invalid line format!
+response [
+$WIMWD,257.5,T,247.1,M,1.3,N,0.7,M*$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055946.40,A,2823.0120,S,15018.3926,E,0.0,285.9,020317,10.4,E,A*18]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8548,I,1.0110,B,22.0,C,,,77.7,,17.9,C,259.6,T,249.2,M,1.2,N,0.6,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+.4,T,240.0,M,0.9,N,0.5,M*53$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055947.40,A,2823.0121,S,15018.3926,E,0.0,279.6,020317,10.4,E,A*14]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8548,I,1.0110,B,22.0,C,,,77.8,1.8,N,0.9,M*60]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,260.5,R,2.0,N,A*20]
+parse NMEA, invalid line format!
+response [
+$WIMWD.1,N,1.1,M*51]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055948.40,A,28226,E,0.0,205.9,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8578,I,1.0111,,1.3,N,0.7,M*67]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,290.6,R,0.9,N,A*27]
+parse NMEA, invalid line format!
+response [
+.8,N,0.4,M*5B]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055949.40,A,2823.0123,S,15018.3926,E,0.0,110.3,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8548,I,1.0110,B,22F]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,307.1,R,0.7,N,A*21]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055950.40,A,2823.0124,S,15018.3926,E,0.0,171.7,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8548,I,1.0110,B,22.0,C,,,78.0,,17.9,C,232.8,T,222.4,M,0.6,N,0.3,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055951.40,A,2823.0125,S,15018.3926,E,0.0,196.3,020317,10.4,E,A*10]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8519,I,1.0109,B,22.0,C,,,78.1,,18.0,C,258.1,T,247.7,M,1.5,N,0.8,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,260.9,R,1.9,N,A*26]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055952.40,A,2823.0126,S,15018.3927,E,0.0,194.0,020317,10.4,E,A*10]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8489,I,1.0108,B,22.0,C,,,78.1,,18.0,C,252.9,T,242.5,M,2.2,N,1.1,M*6D]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,261.0,R,2.1,N,A*25]
+parse NMEA, invalid line format!
+response [
+$WIMWD,255.8$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055953.40,A,2823.0126,S,15018.3928,E,0.0,203.6,020317,10.4,29.8519,I,1.0109,B,22.0,C,,,78.2,,18.0,C,256.5,T,246.1,M,2.3,]
+parse NMEA, invalid line format!
+response [N,1.2,M*6D]
+parse NMEA, invalid line format!
+response [
+$2.1,R,1.9,N,A*2C]
+parse NMEA, invalid line format!
+response [
+$WIMWD,260.7,T,250.3,M,1.8,N,0.9,M*5D]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055954.40,A,2823.0126,S,15018.3928,E,0.0,196.3,02031706,B,22.0,C,,,78.2,,18.0,C,267.1,T,256.7,M,1.0,N,0.5,M*6F]
+parse NMEA, invalid line format!
+response [
+1.3,R,0.7,N,A*23]
+parse NMEA, invalid line format!
+response [
+$WIMWD,250.2,T,239.8,M,0.7,N,0.4,M*5C]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055955.40,A,2823.0126,S,15018.3928,E,0.0,217.6,020317,10.4,E,A*16]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0178.2,,18.0,C,243.6,T,233.2,M,0.7,N,0.4,20]
+parse NMEA, invalid line format!
+response [
+$WIMWD,253.3,T,242.9,M,1.1,N,0.6,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055956.40,A,2823.0126,S,15018.3929,E,0.0,177.6,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8430,I,1.0106,B,22.0,C,,,78.3,,18.0,C,260.3,T,249.9,M,1.8,N,0.9,M*6F]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,02E]
+parse NMEA, invalid line format!
+response [
+$WIMWD,257.8,T,247.4,M,2.1,N,1.1,M*$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055957.40,A,2823.0126,S,15018.3929,E,0.0,179.7,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8430,I,1.0106,B,22.0,C,,,78.3,,18.0,C,250.1,T,239.7,M,2.0,N,1.0,M*64]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+.7,T,241.3,M,2.0,N,1.0,M*5C$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055958.40,A,2823.0125,S,15018.3929,E,0.0,199.6,020317,10.4,E,A*1C]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8430,I,1.0106,B,22.0,C,,,78.356.3,T,245.9,M,1.8,N,0.9,M*66]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$W.7,T,243.3,M,1.7,N,0.9,M*50]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,055959.40,A,2823.0124,S,15018.3929,E,0.0,172.1,020317,10.4,E,A*1E]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0107,B,22.0,C,,,78.4,,18.0,C,247.6,T,237.2,M,1.2,N,0.6,M*6B]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*.5,N,0.8,M*51]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060000.40,A,2823.0124,S,15018.3929,E,0.0,184.4,020317,10.4,E,A*11]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8430,I,1.0106,B,22.0,C,,,78.4,,18.0,C,254.2,T,243.8,M,0.8,N,0.4,M*69]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,254.3,R,0..0,N,0.5,M*56]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060001.40,A,2823.0123,S,15018.3928,E,0.0,174.9,020317,10.4,E,A*14]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8430,I,1.0106,B,22.0,C,,,78.5,,18.0,C,259.8,T,249.4,M,1.7,N,0.9,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,260.2,R,1.2,N,A*26]
+parse NMEA, invalid line format!
+response [
+$WIMWD,255.7,T,245.3,M,1.2,N,0.6,M*5A]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060002.40,A,2823.0123,S,15018.3928,E,0.0,188.0,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0107,B,22.0,C,,,78.5,,18.0,C,256.9,T,246.5,M,1.4,N,0.7,M*63]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.3,0.0,E,10.4,E*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,255.9,R,1.4,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,253.4,T,243.0,M,1.5,N,0.8,M*53]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060003.40,A,2823.0122,S,15018.3927,E,0.0,180.7,020317,10.4,E,A*1D]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0107,B,22.0,C,,,782,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+$WIMWV,243.1,R,1.2,N,A*24]
+parse NMEA, invalid line format!
+response [
+$WIMWD,238.7,$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060004.40,A,2823.0121,S,15018.3927,E,0.0,175.6,020317,10.4,E,A29.8489,I,1.0108,B,22.0,C,,*76]
+parse NMEA, invalid line format!
+response [
+$WIMWV,249$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060005.40,A,2823.0121,S,15018.3927,E,0.0,202.0,020317,10.4,E,A*16]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0107,B,22.0,C,,,78.4,,18.0,C,259.9,T,249.55.1,R,0.9,N,A*29]
+parse NMEA, invalid line format!
+response [
+$WIMWD,25$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060006.40,A,2823.0120,S,15018.3927,E,0.0,198.3,020317,10.4,E,A*17]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8460,I,1.0107,B,22.0,C,,,78.4,,18.0,C,282.4,T,272.0,M,0.9,N,0.5,M*6A]
+parse NMEA, invalid line format!
+response [
+$HCHDG,345.2,0.0,E,10.4,E*77]
+parse NMEA, invalid line format!
+response [
+1.3,R,0.9,N,A*2D]
+parse NMEA, invalid line format!
+response [
+$WIMWD,254.5,T,244.1,M,1.0,N,0.5,M*5B]
+parse NMEA, invalid line format!
+response [
+$GPGSA,A,3,21,15,29,18,10,24,16,20,27,26,,,1.6,0.9,1.3*38]
+parse NMEA, invalid line format!
+response [
+$GPRMC,060007.40,A,2823.0119,S,15018.3927,E,0.0,167.0,020317,10.4,E,A*1F]
+parse NMEA, invalid line format!
+response [
+$WIMDA,29.8489,I,1.0108,B,22.0,C,,,78.4,,18.0,C,267.0,T,256.6,M,1.5,N,0.8,M*6D]
+parse NMEA, invalid line format!
+ Import stopped.
+ Import aborted ( Ctrl + C ).
